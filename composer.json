@@ -26,7 +26,7 @@
         "illuminate/view": "^10.0|^11.0"
     },
     "require-dev": {
-        "illuminate/database": "^10.0"|^11.0",
+        "illuminate/database": "^10.0|^11.0",
         "mockery/mockery": "^1.4.4",
         "phpunit/phpunit": "^10.1|^11.0.1"
     },
